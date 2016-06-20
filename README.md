@@ -1,1 +1,1 @@
-# general over of javascript and php files
+# general overview of javascript and php files
