@@ -1,8 +1,5 @@
-/**************************
-*Antonio Dotson 2016
-
-**************************/
 <?php 
+//Antonio Dotson 2016
 $title="add new user";
 require_once("header.php");
 ?>
